@@ -195,6 +195,11 @@ When you grow beyond free tiers:
 3. **Resend Growth** ($20/mo) — 50K emails/month
 4. Consider **Redis** for caching (Upstash free tier)
 5. Consider **Vercel Edge Functions** for global performance
+6. # ⚡ InternPulse — Full Stack Internship Platform
+
+> AI-powered internship platform built by students for students.
+
+🌐 **Live Demo:** https://internpulse-fullstack.vercel.app
 
 ## 🤝 Need Help?
 
